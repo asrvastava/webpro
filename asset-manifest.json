@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/webpro/static/css/main.fc3aa6c2.css",
+    "main.js": "/webpro/static/js/main.45da99f0.js",
+    "static/media/instagram-clone.png": "/webpro/static/media/instagram-clone.1b04f26d312a46f2c167.png",
+    "static/media/weather-app.jpg": "/webpro/static/media/weather-app.faac3879a23869012400.jpg",
+    "static/media/portfolio.png": "/webpro/static/media/portfolio.21d99c8601e8d2a9d3e4.png",
+    "static/media/resume.pdf": "/webpro/static/media/resume.98ba4647aa2b66e02275.pdf",
+    "static/media/profile.jpg": "/webpro/static/media/profile.c6ebba2e76929e033d28.jpg",
+    "static/media/ai4code.png": "/webpro/static/media/ai4code.c253dc66794fe5c5c743.png",
+    "static/media/voiceassistant.jpeg": "/webpro/static/media/voiceassistant.36acfc1e4d7410632010.jpeg",
+    "static/media/chatbot.jpg": "/webpro/static/media/chatbot.341eb56699dc4ba2ec00.jpg",
+    "index.html": "/webpro/index.html",
+    "main.fc3aa6c2.css.map": "/webpro/static/css/main.fc3aa6c2.css.map",
+    "main.45da99f0.js.map": "/webpro/static/js/main.45da99f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc3aa6c2.css",
+    "static/js/main.45da99f0.js"
+  ]
+}
